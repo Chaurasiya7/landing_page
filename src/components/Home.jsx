@@ -28,7 +28,7 @@ function Home() {
           Monitor your data analytics to increase revenue for BTB, BTC & SAAS
           platforms.
         </p>
-        <button className="bg-[#7000df] py-2 rounded-lg px-7 tracking-wide font-bold text-lg md:mt-2 my-4" >Get Started</button>
+        <button className="bg-[#7000df] text-black py-2 rounded-lg px-7 tracking-wide font-medium text-lg md:mt-2 my-4" >Get Started</button>
       </div>
     </div>
   );

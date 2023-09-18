@@ -18,7 +18,7 @@ function Company() {
             nesciunt nostrum reprehenderit veritatis inventore alias repellat
             voluptate dolorem voluptates doloribus consequuntur.
           </p>
-          <button className="bg-[#0c0013] py-2 rounded-lg px-7 tracking-wide font-bold text-lg  text-[#7000df] w-[160px]  my-4 mx-auto md:mx-0" >Get Started</button>
+          <button className="bg-[#0c0013] py-2 rounded-lg px-7 tracking-wide font-medium text-lg  text-white w-[160px]  my-4 mx-auto md:mx-0" >Get Started</button>
         </div>
       </div>
     </div>
