@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="text-white">
       {/* max-w-[800px] w-full */}
-      <div className="  mt-[-60px] flex flex-col justify-center items-center text-center h-screen">
+      <div className="  mt-[-50px] flex flex-col justify-center items-center text-center h-screen">
         <p className="text-[#7000df] font-bold md:text-xl ">
           GROWING WITH DATA ANALYTICS
         </p>
