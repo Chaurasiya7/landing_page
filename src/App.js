@@ -4,6 +4,7 @@ import Home from './components/Home'
 import Company from './components/Company'
 import Mail from './components/Mail'
 import CardsPage from './components/CardsPage'
+import Footer from './components/Footer'
 function App(){
   return(
     <>
@@ -12,7 +13,7 @@ function App(){
     <Company/>
     <Mail/>
     <CardsPage/>
-
+    <Footer/>
     </>
   )
 }
